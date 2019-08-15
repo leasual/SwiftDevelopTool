@@ -3,6 +3,7 @@ Swift开发常用库和控件使用
 
 SwiftEntryKit
 
+```swift
 /// ---------- 属性说明
 //    /// 配置样式
 //    fileprivate func configure () {
@@ -118,3 +119,4 @@ SwiftEntryKit
 //        //        }
 //
 //    }
+```
